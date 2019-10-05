@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1569279092 source:c:\users\alumno\desktop\abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1569285938 source:c:\users\alumno\desktop\abmalumnoautoincremental\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1569285938 source:c:\users\alumno\desktop\abmalumnocarreras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1569625218 source:f:\programacion 2019\material de las clases\abmalumnocarrerassubmenu\abmalumnocarreras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1569632276 f:\programacion 2019\material de las clases\abmalumnocarrerassubmenu\abmalumnocarreras\funciones.h
+
+1569625962 source:f:\programacion 2019\material de las clases\abmalumnocarrerassubmenu\abmalumnocarreras\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1569892066 source:e:\programacion 2019\material de las clases\abmalumnocarrerassubmenu\abmalumnocarreras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+	"comidas.h"
+
+1569883296 e:\programacion 2019\material de las clases\abmalumnocarrerassubmenu\abmalumnocarreras\funciones.h
+
+1569883792 source:e:\programacion 2019\material de las clases\abmalumnocarrerassubmenu\abmalumnocarreras\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+	"comidas.h"
+
+1569892066 source:e:\programacion 2019\material de las clases\abmalumnocarrerassubmenu\abmalumnocarreras\comidas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+	"comidas.h"
+
+1569892066 e:\programacion 2019\material de las clases\abmalumnocarrerassubmenu\abmalumnocarreras\comidas.h
+
